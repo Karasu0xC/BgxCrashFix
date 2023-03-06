@@ -9,3 +9,6 @@ Fix a issue where BGX crash if player name longer than normal.
 ```
 pip install pymem
 ```
+
+
+## Use at your own risk
