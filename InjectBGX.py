@@ -2,8 +2,8 @@ from pymem import *
 
 pm: Pymem = Pymem("League of Legends.exe")
 
-# Offsets for League of Legends 13.4
-of_localPlayer = 0x316F708
+# Offsets for League of Legends 13.5
+of_localPlayer = 0x3172ABC
 of_playerName = 0x54
 
 if pm:
